@@ -1,5 +1,3 @@
-Perfect! I’ve designed a **GitHub-ready, visually appealing README** with **section-specific badges, icons, and colors** to make it stand out and easier to navigate. Here’s the upgraded version:
-
 ---
 
 # 🌾 Laxmi Ji Mini Rice Mill - Management System
@@ -88,7 +86,7 @@ The **Laxmi Ji Mini Rice Mill Management System** replaces manual record-keeping
 
 | Frontend                   | Backend             | Database           | Auth | Deployment     |
 | -------------------------- | ------------------- | ------------------ | ---- | -------------- |
-| React, Tailwind CSS, Redux | Node.js, Express.js | MongoDB (Mongoose) | JWT  | Docker, AWS S3 |
+| html,js, Tailwind CSS,    | Node.js, Express.js | MongoDB (Mongoose) | JWT  | Docker, AWS S3 |
 
 ---
 
@@ -151,7 +149,7 @@ Access at [http://localhost:3000](http://localhost:3000)
 
 * **Default Admin:**
 
-  * Email: `admin@laxmimill.com`
+  * Email: `admin@.com`
   * Password: `admin123`
 
 * Admin creates accounts for operators, who then log in with their credentials.
@@ -208,15 +206,9 @@ Distributed under **MIT License** – see `LICENSE.txt`.
 
 [![Contact](https://img.shields.io/badge/Contact-Email-blue)]()
 
-**Your Name**
+**Bijendra Kumar Patel**
+* Email: `bijendra.patel.cs.2022@mitmeerut.ac.in`
 
-* Twitter: [@your\_twitter](https://twitter.com/your_twitter)
-* Email: `your.email@example.com`
-
-Project: [https://github.com/your\_username/laxmi-ji-mini-rice-mill](https://github.com/your_username/laxmi-ji-mini-rice-mill)
+Project: [https://github.com/your\_username/laxmi-ji-mini-rice-mill](https://github.com/bijendrakumarpatel/laxmiji-mini-rice-mill-web)
 
 ---
-
-If you want, I can **also create a “GitHub README Hero Banner”** at the top with your rice mill logo and a modern ERP illustration to make it **look like a professional SaaS product**.
-
-Do you want me to do that next?
