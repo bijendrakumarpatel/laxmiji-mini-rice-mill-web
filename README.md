@@ -209,6 +209,6 @@ Distributed under **MIT License** – see `LICENSE.txt`.
 **Bijendra Kumar Patel**
 * Email: `bijendra.patel.cs.2022@mitmeerut.ac.in`
 
-Project: [https://github.com/your\_username/laxmi-ji-mini-rice-mill](https://github.com/bijendrakumarpatel/laxmiji-mini-rice-mill-web)
+Project: [https://laxmi-dashboard-2025.web.app/](https://github.com/bijendrakumarpatel/laxmiji-mini-rice-mill-web)
 
 ---
